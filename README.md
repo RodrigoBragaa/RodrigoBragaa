@@ -1,7 +1,9 @@
 ### Olá sou Rodrigo Braga👋
 
 - 🔭 Atualmente sou estagiario em suporte ao usuario.
-- 🌱 Ex estudante de Sistemas de Informação pela Universidade Federal do Mato Grosso (5 semestres Cursados) e atual estudante de Analise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo, atualmente faço estudo continuo atraves do alura, curto bastante programar em java.
+- 🌱 Ex estudante de Sistemas de Informação pela Universidade Federal do Mato Grosso (5 semestres Cursados) e atual estudante de Analise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo, 
+- 💻 Atualmente faço estudo continuo atraves do alura, curto bastante programar em java.
+- 😺 Comecei agora a colocar um pouco do meu processo de aprendizado aqui.
 
 <div align="center">
   <a href="https://github.com/rodrigobragaa">
